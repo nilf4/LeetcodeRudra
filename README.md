@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nilf4/LeetcodeRudra/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/nilf4/LeetcodeRudra/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nilf4/LeetcodeRudra/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

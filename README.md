@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nilf4/LeetcodeRudra/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/nilf4/LeetcodeRudra/tree/master/0127-word-ladder) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nilf4/LeetcodeRudra/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/nilf4/LeetcodeRudra/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/nilf4/LeetcodeRudra/tree/master/0127-word-ladder) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nilf4/LeetcodeRudra/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/nilf4/LeetcodeRudra/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |

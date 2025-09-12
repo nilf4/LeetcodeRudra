@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nilf4/LeetcodeRudra/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/nilf4/LeetcodeRudra/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nilf4/LeetcodeRudra/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/nilf4/LeetcodeRudra/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nilf4/LeetcodeRudra/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nilf4/LeetcodeRudra/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/nilf4/LeetcodeRudra/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nilf4/LeetcodeRudra/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

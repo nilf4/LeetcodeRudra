@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nilf4/LeetcodeRudra/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nilf4/LeetcodeRudra/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nilf4/LeetcodeRudra/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/nilf4/LeetcodeRudra/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nilf4/LeetcodeRudra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nilf4/LeetcodeRudra/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/nilf4/LeetcodeRudra/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nilf4/LeetcodeRudra/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->

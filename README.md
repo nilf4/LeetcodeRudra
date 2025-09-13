@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nilf4/LeetcodeRudra/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/nilf4/LeetcodeRudra/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/nilf4/LeetcodeRudra/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/nilf4/LeetcodeRudra/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nilf4/LeetcodeRudra/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nilf4/LeetcodeRudra/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
